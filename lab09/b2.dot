@@ -1,0 +1,17 @@
+digraph Tree {
+	node [shape=record]
+
+	nodeb [label = "<f0> |<f1> b|<f2> "]
+	nodeb:f0 -> nodea:f1
+	nodea [label = "<f0> |<f1> a|<f2> "]
+	nodea:f0 -> noded:f1
+	noded [label = "<f0> |<f1> d|<f2> "]
+	nodea:f2 -> nodee:f1
+	nodee [label = "<f0> |<f1> e|<f2> "]
+	nodeb:f2 -> node5:f1
+	node5 [label = "<f0> |<f1> 5|<f2> "]
+	node5:f0 -> nodef:f1
+	nodef [label = "<f0> |<f1> f|<f2> "]
+	nodef:f2 -> nodeg:f1
+	nodeg [label = "<f0> |<f1> g|<f2> "]
+}
