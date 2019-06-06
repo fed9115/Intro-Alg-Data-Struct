@@ -1,4 +1,4 @@
 # Intro-Alg-Data-Struct
 
-These are all the codes of assignments and lab sections of the Intorduction to Algorithms and Data Structures I have done in Spring 2019.The assignments are all pair programmings and I did them with another student in the class. For most of the assignments, I got more than 90% of the grades.
+These are all the codes of assignments and lab sections of the Intorduction to Algorithms and Data Structures class I have done in Spring 2019. The assignments are all pair programmings and I did them with another student in the class. For most of the assignments, I got more than 90% of the grades.
 This course provides an introduction to the problem of engineering computational efficiency into programs. Students will learn about classical algorithms (including sorting, searching, and graph traversal), data structures (including stacks, queues, linked lists, trees, hash tables, and graphs), and analysis of program space and time requirements. Students will complete extensive programming exercises that require the application of elementary techniques from software engineering.
